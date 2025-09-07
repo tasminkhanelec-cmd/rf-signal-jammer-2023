@@ -1,8 +1,5 @@
 # Cell Phone Jammer Circuit - EEE 310 Project
 
-## ⚠️ Legal Disclaimer
-This project is for **educational and research purposes only**. RF jammers are illegal in most countries for civilian use. This was completed as part of university coursework at Bangladesh University of Engineering and Technology (BUET).
-
 ## Project Overview
 A radio frequency signal jammer circuit designed to disrupt cellular communications within a limited range. The project successfully demonstrated jamming capabilities for FM radio frequencies around 100 MHz.
 
@@ -66,6 +63,9 @@ A radio frequency signal jammer circuit designed to disrupt cellular communicati
 - Mumtahina Islam Sukanya (Lecturer)
 
 **Note:** This is a hardware design project - no traditional source code files are included.
+
+## ⚠️ Legal Disclaimer
+This project is for **educational and research purposes only**. RF jammers are illegal in most countries for civilian use. This was completed as part of university coursework at Bangladesh University of Engineering and Technology (BUET).
 
 ## 🔗 References
 
