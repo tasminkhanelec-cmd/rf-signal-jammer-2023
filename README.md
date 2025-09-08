@@ -50,18 +50,6 @@ A radio frequency signal jammer circuit designed to disrupt cellular communicati
 - Implement better antenna design for increased range
 - Include multiple frequency band coverage
 
-## 👥 Team Members
-
-**Group 06 - EEE 310, BUET**
-- Md. Fahadul Islam (1906054)
-- Tasmin Khan (1906055) 
-- Bokhtiar Foysol Himon (1906056)
-- Sayed Mommad Tawsif Arefin (1906057)
-
-**Supervisors:**
-- Dr. Mohammad Faisal (Professor)
-- Mumtahina Islam Sukanya (Lecturer)
-
 **Note:** This is a hardware design project - no traditional source code files are included.
 
 ## ⚠️ Legal Disclaimer
