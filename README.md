@@ -3,13 +3,13 @@
 ## Project Overview
 A radio frequency signal jammer circuit designed to disrupt cellular communications within a limited range. The project successfully demonstrated jamming capabilities for FM radio frequencies around 100 MHz.
 
-## 🎯 Objectives
+## Objectives
 - Design and implement a three-stage RF jammer circuit
 - Understand RF signal disruption principles
 - Demonstrate practical jamming at specific frequencies
 - Analyze circuit limitations and improvements
 
-## 🔧 Technical Specifications
+## Technical Specifications
 
 ### Circuit Components
 - **Timer Stage**: NE555 IC configured as astable multivibrator
@@ -25,7 +25,7 @@ A radio frequency signal jammer circuit designed to disrupt cellular communicati
 - Achieved frequency: ~100 MHz (hardware limited)
 - Amplifier efficiency: ~90% (Class C theoretical maximum)
 
-## 🧪 Testing Results
+## Testing Results
 
 ### Simulation (PSPICE)
 - Achieved periodic output around 100 MHz
@@ -37,14 +37,14 @@ A radio frequency signal jammer circuit designed to disrupt cellular communicati
 - Clean audio became completely distorted when jammer active
 - Effective range: ~1 meter with 24 AWG wire antenna
 
-## 🚫 Limitations
+## Limitations
 
 1. **Hardware Constraints**: BJT frequency response limited to ~100 MHz
 2. **Cellular Bands**: Modern phones operate at 698-806 MHz, 1920-1980 MHz, 2110-2170 MHz
 3. **Range**: Limited by antenna design and power output
 4. **Frequency Specificity**: Can only jam designed frequency range
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Use RF transistors rated for GHz frequencies
 - Implement better antenna design for increased range
@@ -52,10 +52,10 @@ A radio frequency signal jammer circuit designed to disrupt cellular communicati
 
 **Note:** This is a hardware design project - no traditional source code files are included.
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 This project is for **educational and research purposes only**. RF jammers are illegal in most countries for civilian use. This was completed as part of university coursework at Bangladesh University of Engineering and Technology (BUET).
 
-## 🔗 References
+## References
 
 1. Mobile Cell Phone Jammers Applications
 2. Cellular Frequencies - Wikipedia  
